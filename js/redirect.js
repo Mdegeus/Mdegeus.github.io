@@ -1,0 +1,1 @@
+window.location = "https://mdegeus.github.io/new/";
